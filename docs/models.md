@@ -1,4 +1,4 @@
-# Available Models as of June 15, 2025
+# Available Models as of June 19, 2025
 
 ## Main Models
 
